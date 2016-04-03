@@ -1,0 +1,18 @@
+.testing {
+  background-color: #663399;
+}
+img.test {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top : 15px;
+}
+h1.main{
+  font-family: Helvetica;
+  color: #FFFF66;
+  text-align: center;
+  position: relative;
+  top: 15px;
+  font-size: 45px;
+}
